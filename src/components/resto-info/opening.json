@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_resto_info_openings",
+  "info": {
+    "displayName": "Opening",
+    "icon": "address-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "hours": {
+      "type": "string"
+    },
+    "days": {
+      "type": "string"
+    }
+  }
+}
